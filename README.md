@@ -39,7 +39,7 @@ classDiagram![TP2nJWCn38RtF8NP3l46J4LL4GiJ8s8mZTLQE7Rac210l3lNg88RUblYp_hzwT-qG8
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone git@github.com:Haidz97/HTMLReader.git
+   git clone git@github.com:Haidz97/HTML.git
    ```
 
 
